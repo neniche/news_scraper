@@ -1,0 +1,5 @@
+Links = //h2/a/@href
+Tittle = //h2/span/text()
+Summary = //div[@class = "lead"]/p/text()
+First_paragraph = //div[@class = "html-content"]/p[not(@class)]/span/text()
+Body = //div[@class = "html-content"]/p[not(@class)]/text()
